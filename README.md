@@ -1,3 +1,17 @@
+En este proyecto trabajaremos sobre el ejemplo utilizado en https://v6.angular.io/tutorial
+
+Para trabajar en este proyecto es necesario utilizar: 
+-Git (dependiend del SO):
+https://git-scm.com/downloads 
+
+-Node JS:
+Versión recomendada la LTS o utilizar nvm 
+https://nodejs.org/en/
+
+-Angular CLI
+npm install -g @angular/cli
+
+
 # HerosExample
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
@@ -26,15 +40,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-En este proyecto trabajaremos sobre el ejemplo utilizado en https://v6.angular.io/tutorial
-
-Para trabajar en este proyecto es necesario utilizar: 
--Git (dependiend del SO):
-https://git-scm.com/downloads 
-
--Node JS:
-Versión recomendada la LTS o utilizar nvm 
-https://nodejs.org/en/
-
--Angular CLI
-npm install -g @angular/cli
