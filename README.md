@@ -11,6 +11,11 @@ https://nodejs.org/en/
 -Angular CLI
 npm install -g @angular/cli
 
+-IDE: yo recomiendo utilizar Visual Code https://code.visualstudio.com/ 
+Tambien podrias utilizar:
+*Sublime Text
+*Atom
+*WebStorm
 
 # HerosExample
 
